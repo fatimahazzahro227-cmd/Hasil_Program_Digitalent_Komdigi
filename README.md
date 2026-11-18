@@ -1,5 +1,6 @@
 # Hasil_Program_Digitalent_Komdigi
 
-Ini adalah screnshoot bukti pengerjaandigitalent dari Komdigi. 
+Ini adalah screnshoot bukti pengerjaan digitalent dari Komdigi. 
 
-(screnshoot.jpeg)
+![Bukti Pengerjaan](screnshoot.jpeg)
+
