@@ -2,5 +2,5 @@
 
 Ini adalah screnshoot bukti pengerjaan digitalent dari Komdigi. 
 
-![Bukti Pengerjaan](screnshoot.jpeg)
+<img src="screnshoot.jpg" alt="Bukti Pengerjaan" width="500">
 
